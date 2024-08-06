@@ -1,0 +1,57 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+.main-section
+{
+    width: 1490px;
+    height: 500px;
+    background-color: #faf9f6;
+    margin: 30px 20px;
+}
+.main-section h3
+{
+    padding: 8px;
+    margin-left: 30px;
+    color: orange;
+    font-weight: bold;
+
+}
+.main-section h2
+{
+    margin-left: 30px;
+    margin-top: 0px;
+    padding: 0px;
+    line-height: 1.5;
+    font-weight:bolder;
+    font-size: 28px;
+}
+.second-section
+{
+    display: flex;
+    justify-content:space-evenly
+}
+.second-section img
+{
+    width: 230px;
+    height: 150px;
+    margin-left: 30px;
+    
+}
+.second-section p
+{
+    padding: 10px;
+    font-size: 14px;
+    
+}
+footer
+{
+    text-align: right;
+    margin-top: 160px;
+    margin-right: 10px;
+    font-size: 14px;
+    color: blueviolet;
+}
